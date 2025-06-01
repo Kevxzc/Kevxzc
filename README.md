@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+cool+things." alt="Typing SVG" />
 </p>
-- ⚡ Fun fact: **I DON'T HAVE FUN FACT😁**
+- ⚡ Fun fact: ** I DON'T HAVE FUN FACT😁 **
 
 ---
 
