@@ -4,7 +4,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+cool+things." alt="Typing SVG" />
 </p>
-- ⚡ Fun fact: ** I DON'T HAVE FUN FACT😁 **
+- ⚡ **HI I am a Backend Developer with a strong focus on building scalable, reliable, and high-performance systems. Experienced in designing and developing RESTful APIs, managing and optimizing databases, and ensuring efficient server-side architecture. Skilled in handling data flow, authentication, and system integration to support seamless application functionality.
+
+Passionate about writing clean, maintainable, and well-structured code while following best practices in software development. Continuously exploring new technologies and approaches to improve system performance, security, and scalability. Comfortable working independently as well as collaborating in team environments to deliver robust and efficient backend solutions.
+
+Committed to continuous learning and adapting to evolving technologies in order to build systems that are not only functional but also sustainable and future-proof.**
 
 ---
 
