@@ -10,10 +10,10 @@
 <div align="center">
    <br>
     <br>
-    <a href="https://t.me/Dimzxzzx07">
+    <a href="https://t.me/SixSevenMan">
         <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
     </a>
-    <a href="https://github.com/Dimzxzzx07">
+    <a href="https://github.com/Kevxzc">
         <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
     </a>
     <br>
