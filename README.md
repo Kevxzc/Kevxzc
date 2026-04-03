@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+cool+things." alt="Typing SVG" />
 </p>
 
+   <br>
+    <br>
+    <a href="https://t.me/Dimzxzzx07">
+        <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
+    </a>
+    <a href="https://github.com/Dimzxzzx07">
+        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+    </a>
+    <br>
+    <br>
 
 ### 🛠️ Languages and Tools:
 
